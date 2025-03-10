@@ -150,7 +150,7 @@ docker run -d -p 8088:8088 --name tgstate -e token=token -e target=@target -e mo
 
 不支持大于5mb文件，不支持tg获取文件路径
 
- [点我传送至Vercel配置页面](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcsznet%2FtgState&env=token&env=target&env=pass&env=mode&env=url&project-name=tgState&repository-name=tgState)  
+ [点我传送至Vercel配置页面](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FHpilOsit%2Fimg_aiza2a&env=token&env=target&env=pass&env=mode&env=url&project-name=tgState&repository-name=tgState)  
 
 # API说明
 
