@@ -25,7 +25,7 @@ https://tgstate.vercel.app / https://tgstate.ikun123.com/
 
 演示图片：
 
-![tgState](https://tgstate.vercel.app/d/BQACAgUAAx0EcyK3ugACByxlOR-Nfl4esavoO4zdaYIP_k1KYQACDAsAAkf4yFVpf_awaEkS8jAE)  
+![tgState](https://t01ate.vercel.app/d/BQACAgUAAxkDAAIBgmfO_xfZ27XP9fIjMa_NKTq__6TdAAJbGQACECN4VmOKEXBLguidNgQ)  
 
 # 参数说明
 
